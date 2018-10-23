@@ -1,7 +1,15 @@
 # Proyek-Teknologi-Informasi
+
+## Bahan Ujian Tengah Semester (UTS)
+
+1. Berbagai macam sistem Aplikasi Komputer.
+2. Pengembangan Aplikasi Berbasis Web.
+3. Pengembangan Aplikasi Android
+
+
+
+
 Catatan kuliah semester Ganjil 2018
-
-
 
 ## TUGAS-01: ( Senin, 8 Okt 2018  20:00:02 wib ) 
 
