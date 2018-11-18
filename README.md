@@ -1,5 +1,12 @@
 # Proyek-Teknologi-Informasi
 
+## Pengumuman (Senin, 19 Nov 2018)
+
+Aktifitas kuliah pagi ini adalah menyelesaikan tugas kelompok tahap pertama, yaitu **mengupload narasi atau keterangan singkat** mengenai aplikasi game yg akan dibuat.
+
+----------------
+
+
 ## Bahan Ujian Tengah Semester (UTS)
 
 1. Berbagai macam sistem Aplikasi Komputer.
