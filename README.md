@@ -4,6 +4,8 @@
 
 Aktifitas kuliah pagi ini adalah menyelesaikan tugas kelompok tahap pertama, yaitu **mengupload narasi atau keterangan singkat** mengenai aplikasi game yg akan dibuat.
 
+*Saya sedang menemani Rektor Unimus yg sedang berkunjung ke UMS*
+
 ----------------
 
 
