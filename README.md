@@ -1,12 +1,12 @@
 # Proyek-Teknologi-Informasi
 
-## Pengumuman (Senin, 19 Nov 2018)
+## Bahan Ujian Akhir Semester (UAS)
 
-Aktifitas kuliah pagi ini adalah menyelesaikan tugas kelompok tahap pertama, yaitu **mengupload narasi atau keterangan singkat** mengenai aplikasi game yg akan dibuat.
+Open cheatsheet 1 lembar A4
 
-*Saya sedang menemani Rektor Unimus yg sedang berkunjung ke UMS*
+1. Sistem aplikasi berbasis web
+2. Dokumen HTML (Format dan style)
 
-----------------
 
 
 ## Bahan Ujian Tengah Semester (UTS)
