@@ -1,6 +1,6 @@
 # Proyek-Teknologi-Informasi
 
-## Bahan Ujian Akhir Semester (UAS)
+## Bahan Ujian Akhir Semester (UAS) - Ganjil 2018/2019 
 
 **Open cheatsheet 1 lembar A4**
 
